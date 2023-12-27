@@ -53,9 +53,9 @@ class HomePage extends StatelessWidget {
   }
 
   /*
-  How it works: 
+How it works: 
 
-  In Flutter, the Expanded widget fills the remaining space after allocating space to Flexible widgets.
+In Flutter, the Expanded widget fills the remaining space after allocating space to Flexible widgets.
 
 In your code, Flexible widgets with flex property are used. The flex factor determines what portion of the total remaining space each Flexible widget should occupy.
 
